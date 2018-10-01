@@ -1,2 +1,2 @@
 # wakeonLan-Arduino
-a wake on line project for the arduino. 
+a wake on lan project for the arduino. 
